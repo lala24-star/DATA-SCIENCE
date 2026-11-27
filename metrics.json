@@ -1,0 +1,10 @@
+{
+  "jalur_a_selected": "Isolation Forest (n_estimators=300, contamination=0.05) + K-Means (k=3) Profiler",
+  "jalur_b_selected": "Logistic Regression",
+  "confidence_threshold": 0.6,
+  "jalur_b_cv_macro_f1_80_20": 0.6602,
+  "jalur_b_test_macro_f1_80_20": 0.6387,
+  "jalur_b_test_accuracy_80_20": 0.7458,
+  "jalur_b_test_recall_negatif_80_20": 0.6727,
+  "jalur_b_test_macro_f1_70_30": 0.6228
+}
